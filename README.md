@@ -10,3 +10,12 @@
 ## week 2
 - 爬蟲練習
 - 資料視覺化練習
+## week 3
+- EDA
+- 資料視覺化練習
+## week 4
+- TDM
+## week 5
+- Co-Occurrence Matrix
+- 共線圖
+- 完成[hw1-3](https://github.com/r05323045/NTU_CSX4001_SPRING_2019/tree/master/hw1-3)

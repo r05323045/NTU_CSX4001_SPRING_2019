@@ -17,5 +17,8 @@
 - TDM
 ## week 5
 - Co-Occurrence Matrix
+## week 6
 - 共線圖
+## week 7
+- 資料整理
 - 完成[hw1-3](https://github.com/r05323045/NTU_CSX4001_SPRING_2019/tree/master/hw1-3)
